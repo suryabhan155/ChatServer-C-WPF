@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/pc/Desktop/New folder (3)/TookupApps.appinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="52feec79-de13-4888-8cde-1f7449b28111"
+		Version="1.0.1.0"
+		Publisher="CN=spixs technologies"
+		Uri="file:///C:/Users/pc/Desktop/New folder (3)/TookupApps_1.0.1.0_Debug_Test/TookupApps_1.0.1.0_x64_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
